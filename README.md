@@ -1,4 +1,6 @@
-# Machinelearningandbeer1-
+# Machinelearningandbeer1-![400px-Brewing_process_chart_(no_text) svg](https://user-images.githubusercontent.com/76789005/115286146-96afa780-a103-11eb-8a1f-906c4fff5d5b.png)
+![220px-GravityTap](https://user-images.githubusercontent.com/76789005/115286162-9b745b80-a103-11eb-8b65-3c7baf568001.jpg)
+
 Brewing using ai solutions (first attempt)
 Beer wikipedia: https://en.wikipedia.org/wiki/Beer
 Brainstorm: Using ai solutions to come up with recipes for brewing beer (possibly wine and spirits later for application)....5 articles I found after a google serach                 (links below) and what else?
@@ -12,16 +14,7 @@ Brainstorm: Using ai solutions to come up with recipes for brewing beer (possibl
             
             
             
-            ![400px-Brewing_process_chart_(no_text) svg](https://user-images.githubusercontent.com/76789005/115286053-7b449c80-a103-11eb-8333-aaabb6950df3.png)
-
-            
-            
-            
-            
-            
-            
-            
-            ![220px-GravityTap](https://user-images.githubusercontent.com/76789005/115286013-708a0780-a103-11eb-9cd9-889a67ccef1c.jpg)           
+                 
             
             
             
