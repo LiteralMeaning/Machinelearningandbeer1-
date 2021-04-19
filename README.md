@@ -8,8 +8,20 @@ Brainstorm: Using ai solutions to come up with recipes for brewing beer (possibl
             https://beerandbrewing.com/beautiful-future-how-deschutes-uses-artificial-intelligence-and-machine/
             https://www.entrepreneur.com/article/357127
             https://digital.hbs.edu/platform-digit/submission/intelligentx-changing-the-world-one-beer-at-a-time/
-            http://www.weare10x.com/portfolio_page/intelligentx/ 
-           
+            http://www.weare10x.com/portfolio_page/intelligentx/
+            
+            
+            
+            ![400px-Brewing_process_chart_(no_text) svg](https://user-images.githubusercontent.com/76789005/115286053-7b449c80-a103-11eb-8333-aaabb6950df3.png)
+
+            
+            
+            
+            
+            
+            
+            
+            ![220px-GravityTap](https://user-images.githubusercontent.com/76789005/115286013-708a0780-a103-11eb-9cd9-889a67ccef1c.jpg)           
             
             
             
